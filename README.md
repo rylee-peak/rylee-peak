@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @rylee-peak
 - 👀 I’m interested in politics
+- VVHS Class of 2026
 - 🌱 I’m currently learning a lot
 
 <!---
