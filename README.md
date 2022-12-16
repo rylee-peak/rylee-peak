@@ -3,7 +3,7 @@
 - 🦅 VVHS Class of 2026
 - 🌱 I’m currently learning a lot
 
-
+President of @World-Class-Alliance
 
 
 
