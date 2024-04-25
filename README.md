@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @rylee-peak
-- 👀 I’m interested in politics
+# Welcome #
+- 👋 Hi, I’m Rylee!
+- 👀 I’m interested in Computer Science & Government!
 - 🦅 VVHS Class of 2026
+- 🦁🏔️ MCHS Class of 2026
+  - **Computer Science Major**
 - 🌱 I’m currently learning a lot
+- Fun Fact:
+  - One of my projects is under contract with the **Metropolitan Transportation Agency**!
 
-President of @World-Class-Alliance
+**Chief Executive Officer** of @World-Class-Alliance
 
 
 
