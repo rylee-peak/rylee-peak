@@ -1,9 +1,11 @@
 # Welcome #
 - 👋 Hi, I’m Rylee!
-- 👀 I’m interested in Computer Science & Government!
+- 👀 I’m interested in Politics & Government!
+- I am a Commissioner with the City of Moreno Valley
+- **Chairperson** of the **Parks, Community Services, and Trails Committee**
 - 🦅 VVHS Class of 2026
 - 🦁🏔️ MCHS Class of 2026
-  - **Computer Science Major**
+  - **Political Science Major**
 - 🌱 I’m currently learning a lot
 - Fun Fact:
   - One of my projects is under contract with the **Metropolitan Transportation Agency**!
